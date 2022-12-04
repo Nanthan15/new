@@ -1,0 +1,13 @@
+Node Initializing : npm init
+create react app : npx create-react-app myapp
+start our server : npm start
+Express : npm install -g express
+Initializing express
+const express = require("express");
+const App = express(); 
+Routes : npm install -g route
+nodemon : Automatically see changes and restart server according to it
+nodemon-install:npm install nodemon
+nodemon-start:nodemon app.js
+
+
